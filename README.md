@@ -21,4 +21,4 @@ I design and build deterministic, heavily decoupled systems operating at the int
 ### Current Focus
 Actively refining hardware integration loops and designing zero-latency deterministic algorithms suitable for mission-critical robotics and industrial IoT applications.
 
-[LinkedIn](#) • [Email](#) • [Portfolio Website](#)
+[LinkedIn](https://www.linkedin.com/in/jagadeesh-m-a294a832b?utm_source=share_via&utm_content=profile&utm_medium=member_android) • [Email](mailto:jagadeeshking28@gmail.com)
